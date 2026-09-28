@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Mahitechlead/DSA/tree/master/1260-shift-2d-grid) |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Mahitechlead/DSA/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Mahitechlead/DSA/tree/master/1260-shift-2d-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Mahitechlead/DSA/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 <!---LeetCode Topics End-->
